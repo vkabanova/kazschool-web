@@ -1,0 +1,11 @@
+Thibaud Chassin, Jens Ingensand, Sidonie Christophe, Guillaume Touya,
+Experiencing virtual geographic environment in urban 3D participatory e-planning: A user perspective,
+Landscape and Urban Planning,
+Volume 224,
+2022,
+104432,
+ISSN 0169-2046,
+https://doi.org/10.1016/j.landurbplan.2022.104432.
+(https://www.sciencedirect.com/science/article/pii/S0169204622000810)
+Abstract: The adoption of technology in urban participatory planning with tools such as Virtual Geographic Environments (VGE) promises a broader engagement of urban dwellers, which should ultimately lead to the creation of better cities. However, the authorities and urban experts show hesitancy in endorsing these tools in their practices. Indeed, several parameters must be wisely considered in the design of VGE; if misjudged, their impact could be damaging for the participatory approach and the related urban project. The objective of this study is to engage participants (N = 107) with common tasks conducted in participatory sessions, in order to evaluate the users’ performance when manipulating a VGE. We aimed at assessing three crucial parameters: (1) the VGE representation, (2) the participants’ idiosyncrasies, and (3) the nature of the VGE format. The results demonstrate that the parameters did not affect the same aspect of users’ performance in terms of time, inputs, and correctness. The VGE representation impacts only the time needed to fulfill a task. The participants’ idiosyncrasies, namely age, gender and frequency of 3D use also induce an alteration in time, but spatial abilities seem to impact all characteristics of users’ performance, including correctness. Lastly, the nature of the VGE format significantly alters the time and correctness of users interactions. The results of this study highlight concerns about the inadequacies of the current VGE practices in participatory sessions. Moreover, we suggest guidelines to improve the design of VGE, which could enhance urban participatory planning processes, in order to create better cities.
+Keywords: Online user study; Virtual Geographic Environment (VGE); Urban participatory e-planning; 3D; User cognition
